@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 welcome user b
 i am user b
+=======
+i am user a
+welcome user b
+>>>>>>> Stashed changes
